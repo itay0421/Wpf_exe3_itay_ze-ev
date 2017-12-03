@@ -57,7 +57,7 @@ namespace Wpf_exe3_itay_ze_ev
                 textbox1.Foreground = Brushes.Red; 
             }
             else textbox1.Foreground = Brushes.Black ;
-            //dfdfxcd
+            //dfdfxcds
 
         }
     }
